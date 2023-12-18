@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StevenpzHan
-- 👀 I’m interested in applying bioinformatic tools to investigated puzzles behind human diseases.
+- 👀 I’m interested in applying bioinformatic tools to investigate puzzles behind human diseases.
 - 🌱 I’m currently learning python/R/matlab.
 - 📫 How to reach me :
 - E-mail me @ hpz9701@163.com
